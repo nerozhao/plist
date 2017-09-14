@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>http://weixin.nerozhao.com/wechat01.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>App</string>
                 <key>title</key>
-                <string>测试</string>
+                <string>天天快报</string>
             </dict>
         </dict>
     </array>
