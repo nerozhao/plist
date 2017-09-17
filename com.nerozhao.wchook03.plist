@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://ojgksk0my.bkt.clouddn.com/wechat02.ipa</string>
+                    <string>http://ojgksk0my.bkt.clouddn.com/com.nerozhao.wchook03.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://weixin.nerozhao.com/wechat02.png</string>
+                    <string>http://weixin.nerozhao.com/com.nerozhao.wchook03.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.nerozhao.wchook02</string>
+                <string>com.nerozhao.wchook03</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>App</string>
                 <key>title</key>
-                <string>凤凰视频</string>
+                <string>腾讯新闻</string>
             </dict>
         </dict>
     </array>
