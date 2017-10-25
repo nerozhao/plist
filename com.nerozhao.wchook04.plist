@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://ojgksk0my.bkt.clouddn.com/com.nerozhao.wchook04.ipa</string>
+                    <string>http://ipacache.nerozhao.com/com.nerozhao.wchook04.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://weixin.nerozhao.com/com.nerozhao.wchook04.png</string>
+                    <string>http://res.nerozhao.com/img/com.nerozhao.wchook01.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>App</string>
                 <key>title</key>
-                <string>泰理财</string>
+                <string>理财</string>
             </dict>
         </dict>
     </array>
