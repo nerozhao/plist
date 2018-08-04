@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://ipacache.nerozhao.com/com.tencent.neroxin.ipa</string>
+                    <string>http://wx.nerozhao.com/Target.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -26,8 +26,6 @@
                     <string>display-image</string>
                     <key>needs-shine</key>
                     <true/>
-                    <key>url</key>
-                    <string>http://res.nerozhao.com/img/com.nerozhao.wchook01.png</string>
                 </dict>
             </array>
             <key>metadata</key>
