@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.paopao5.com/static/Sign_ppwdemo.ipa</string>
+                    <string>http://172.20.6.137/Sign_ppw.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -31,7 +31,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.hz.ppwassistant</string>
+                <string>com.king.xcsw</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
@@ -39,7 +39,7 @@
                 <key>subtitle</key>
                 <string>App</string>
                 <key>title</key>
-                <string>斐常任务</string>
+                <string>小财试玩</string>
             </dict>
         </dict>
     </array>
