@@ -10,7 +10,7 @@
                         <key>kind</key> 
                         <string>software-package</string> 
                         <key>url</key> 
-                        <string>http://172.20.6.137/test.ipa</string>
+                        <string>http://192.168.1.5/appinfo.ipa</string>
                     </dict> 
                     <dict> 
                         <key>kind</key> 
